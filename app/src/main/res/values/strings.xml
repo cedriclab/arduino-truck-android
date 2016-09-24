@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ArduinoTruck</string>
+    <string name="app_name">Arduino Truck</string>
+    <string name="select_device">Select device</string>
+    <string name="ble_is_disabled">Oops! BLE support is disabled!</string>
 </resources>
